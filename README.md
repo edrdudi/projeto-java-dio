@@ -1,6 +1,8 @@
 ## Iniciando
 
-Esse é meu primeiro projeto em Java, com aulas da DIO.
+Esse é um projeto em Java para aprendizado.
+
+Aulas do Professor Isidro.
 
 ## Estrutura
 
