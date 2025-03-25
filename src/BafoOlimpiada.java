@@ -4,8 +4,7 @@ public class BafoOlimpiada {
     public static void main (String [] args) {
         Scanner teclado = new Scanner(System.in);
 
-        int R, A, B;
-        int contador;
+        int R, A, B, contador;
         int teste = 0;
         int somaA = 0;
         int somaB = 0;
@@ -18,8 +17,8 @@ public class BafoOlimpiada {
                 A = teclado.nextInt();
                 B = teclado.nextInt();
 
-                somaA = somaA + A;
-                somaB = somaB + B;
+                somaA += A;
+                somaB += B;
 
             }
             if (R != 0) {
