@@ -4,8 +4,7 @@ public class URI1181 {
     public static void mais (String[] args) {
         Scanner teclado = new Scanner(System.in);
 
-        int L = teclado.nextInt();
-        teclado.nextLine();
+        int L = Integer.parseInt(teclado.nextLine());
         char T = teclado.nextLine().charAt(0);
         double[][] M = new double[12][12];
 
