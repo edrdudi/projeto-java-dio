@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class URI1181 {
-    public static void mais (String[] args) {
+    public static void main (String[] args) {
         Scanner teclado = new Scanner(System.in);
 
         int L = Integer.parseInt(teclado.nextLine());
